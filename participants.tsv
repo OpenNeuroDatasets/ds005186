@@ -1,0 +1,17 @@
+participant_id	study_id	treatment	sex	mouse_strain
+sub-01	1588_1f_3wks	SH	F	C58
+sub-02	1588_2f_3wks	SH	F	C58
+sub-03	1591_0f	EE	F	C58
+sub-04	1591_1f	EE	F	C58
+sub-05	1591_2f	EE	F	C58
+sub-06	1591_12f	EE	F	C58
+sub-07	1592_1uf	EE	F	C58
+sub-08	1593_0m	EE	M	C58
+sub-09	1593_1m	EE	M	C58
+sub-10	1593_2m	EE	M	C58
+sub-11	1593_12m	EE	M	C58
+sub-12	1593_0f	SH	F	C58
+sub-13	1593_2f	SH	F	C58
+sub-14	1596_12m	SH	M	C58
+sub-15	1596_1um	SH	M	C58
+sub-16	1596_2um	SH	M	C58

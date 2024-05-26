@@ -1,0 +1,30 @@
+{
+  "participant_id": {
+    "LongName": "participant identifier",
+    "Description": "String value indicating unique identifier used to identify individuals for BIDs dataset."
+
+  },
+
+  "study_id": {
+    "LongName": "subject study identifier",
+    "Description": "String value indicating subject identifier used to identify individuals during the study."
+
+  },
+  
+  "treatment": {
+    "LongName": "treatment",
+    "Description": "String value indicating housing condition treatment.SH indicates standard housing and EE indicates environmental enrichment housing."
+
+  },
+  
+  "sex": {
+    "LongName": "sex",
+    "Description": "String value indicating phenotypical sex. F indicates female, and M indicates male."
+  },
+  "mouse_strain": {
+    "LongName": "mouse strain",
+    "Description": "String value indicating inbred mouse strain. C58 indicates C58/J mice, and C57 indicates C57BL/6J mice."
+
+  }
+      }
+
