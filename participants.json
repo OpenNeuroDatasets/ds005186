@@ -25,6 +25,10 @@
     "LongName": "mouse strain",
     "Description": "String value indicating inbred mouse strain. C58 indicates C58/J mice, and C57 indicates C57BL/6J mice."
 
+  },
+  "RRB": {
+  "LongName": "Restricted repetitive behavior measure",
+  "Description": "Number indicating total number of vertical jumps per night. This is a measure of repetitive motor behavior."
   }
       }
 
