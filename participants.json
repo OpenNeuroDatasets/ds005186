@@ -4,12 +4,6 @@
     "Description": "String value indicating unique identifier used to identify individuals for BIDs dataset."
 
   },
-
-  "study_id": {
-    "LongName": "subject study identifier",
-    "Description": "String value indicating subject identifier used to identify individuals during the study."
-
-  },
   
   "treatment": {
     "LongName": "treatment",
